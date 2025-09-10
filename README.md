@@ -115,12 +115,6 @@ Frontend runs on `http://localhost:5173`
    - Student: view & update profile  
 4. Use the Navbar to view profile or logout.
 
----
-
-## Screenshots / Demo
-> *Replace with actual screenshots once implemented*
-
-=
 
 
 ## Author
